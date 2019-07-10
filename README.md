@@ -1,6 +1,5 @@
 # open-classifier playground
 
-> Survey respondent frontend project
 
 ## Setup
 
